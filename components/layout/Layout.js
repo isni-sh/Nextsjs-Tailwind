@@ -6,7 +6,7 @@ export default function Layout({ children, title = null }) {
   return (
     <>
       <Head>
-        <title>{title}</title>
+        <title>{title} - Neuronic</title>
         <link rel="icon" href="/favicons/favicon.ico" sizes="32x32" />
         <link rel="icon" href="/favicons/favicon.ico" sizes="57x57" />
         <link rel="icon" href="/favicons/favicon.ico" sizes="76x76" />
